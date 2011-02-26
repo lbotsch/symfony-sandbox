@@ -1,6 +1,0 @@
-[submodule "src/CryptoBundle"]
-	path = src/CryptoBundle
-	url = git@github.com:lbotsch/CryptoBundle.git
-[submodule "src/SpecBundle"]
-	path = src/SpecBundle
-	url = git@github.com:lbotsch/SpecBundle.git
