@@ -1,6 +1,6 @@
-[submodule "src/Lukbot/CryptoBundle"]
-	path = src/Lukbot/CryptoBundle
+[submodule "src/CryptoBundle"]
+	path = src/CryptoBundle
 	url = git@github.com:lbotsch/CryptoBundle.git
-[submodule "src/Lukbot/SpecBundle"]
-	path = src/Lukbot/SpecBundle
+[submodule "src/SpecBundle"]
+	path = src/SpecBundle
 	url = git@github.com:lbotsch/SpecBundle.git
